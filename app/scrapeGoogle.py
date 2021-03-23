@@ -20,7 +20,7 @@ import requests
 
 URL = ''  # google reviews url
 TIMEFRAME = {'a week ago', 'day ago', 'days ago', 'weeks ago', 'month ago', 'months ago'}
-CHROMEDRIVER_PATH = '/Users/annarekow/Downloads/chromedriver'
+CHROMEDRIVER_PATH = ''
 
 # ---------------------------
 
