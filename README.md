@@ -1,6 +1,11 @@
 # Google Review Manager
+Please see ReviewManager_v2 for a functional, up-to-date rendition of this app.
 
-A django web app for requesting google reviews from clients via text and email, using a flask REST api with client information, updated with the aid of a web scraper to update client review status. Such automation has increased google review counts for an ABQ doctor's office by 250% in 4 months.
+
+
+
+
+A django web app for requesting google reviews from clients via text and email, and a flask API updated with the aid of a web scraper to update client review status. Such automation has increased google review counts for an ABQ doctor's office by 250% in 4 months.
 
 
 ## Flask server
